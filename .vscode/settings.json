@@ -1,4 +1,5 @@
 {
     "gitdoc.enabled": true,
-    "github.copilot.editor.enableAutoCompletions": false
+    "github.copilot.editor.enableAutoCompletions": false,
+    "gitdoc.ai.enabled": true
 }
