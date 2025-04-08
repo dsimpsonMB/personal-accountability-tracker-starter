@@ -18,7 +18,4 @@
     "github.copilot.chat.codeGeneration.useInstructionFiles": false,
     "github.copilot.chat.agent.runTasks": false,
     "github.copilot.chat.localeOverride": "ko",
-    "github.copilot.advanced": {
-        
-    }
 }
