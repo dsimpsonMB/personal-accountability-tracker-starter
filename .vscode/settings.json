@@ -1,5 +1,5 @@
 {
-  "gitdoc.enabled": true,
+  "gitdoc.enabled": false,
   "editor.formatOnSave": true,
   "files.autoSave": "onFocusChange",
   "editor.defaultFormatter": "esbenp.prettier-vscode"
