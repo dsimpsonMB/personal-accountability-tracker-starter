@@ -1,5 +1,24 @@
 {
     "gitdoc.enabled": true,
     "github.copilot.editor.enableAutoCompletions": false,
-    "gitdoc.ai.enabled": true
+    "gitdoc.ai.enabled": true,
+    "github.copilot.chat.edits.newNotebook.enabled": false,
+    "github.copilot.chat.edits.suggestRelatedFilesForTests": false,
+    "github.copilot.chat.edits.suggestRelatedFilesFromGitHistory": false,
+    "github.copilot.chat.newWorkspaceCreation.enabled": false,
+    "github.copilot.chat.search.semanticTextResults": false,
+    "github.copilot.chat.setupTests.enabled": false,
+    "github.copilot.chat.copilotDebugCommand.enabled": false,
+    "github.copilot.chat.reviewSelection.enabled": false,
+    "github.copilot.chat.startDebugging.enabled": false,
+    "github.copilot.renameSuggestions.triggerAutomatically": false,
+    "github.copilot.editor.enableCodeActions": false,
+    "github.copilot.chat.useProjectTemplates": false,
+    "github.copilot.chat.followUps": "never",
+    "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "github.copilot.chat.agent.runTasks": false,
+    "github.copilot.chat.localeOverride": "ko",
+    "github.copilot.advanced": {
+        
+    }
 }
