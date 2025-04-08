@@ -8,8 +8,7 @@
 		"vscode": {
 			"extensions": [
 				"vsls-contrib.gitdoc",
-				"ritwickdey.LiveServer",
-				"GitHub.copilot"
+				"ritwickdey.LiveServer"
 			]
 		}
 	}
